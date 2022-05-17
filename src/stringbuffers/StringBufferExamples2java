@@ -1,0 +1,78 @@
+//package stringbuffer;
+//
+//public class Stringbuffer1 {
+//    public static void main(String[] args) {
+//        StringBuffer s= new StringBuffer("Power Star pawan Kalyan");
+//        int p = s.length();
+//        int q =s.capacity();
+//        System.out.println("length of the String "+ p);
+//        System.out.println("Capacity of the String " +q);
+//
+//
+//    }
+//
+//}
+
+
+//public class Stringbuffer1{
+//    public static void main(String[] args) {
+//        StringBuffer s= new StringBuffer("pawan kalyan");
+//        s.append("power star");
+//        System.out.println(s);
+//        s.append(1);
+//        System.out.println(s);
+//    }
+//}
+
+//package stringbuffers;
+//public class Stringbuffer {
+//    public static void main(String[] args) {
+//       StringBuffer s= new StringBuffer("power");
+//        s.insert(5 , "star");
+//        System.out.println(s);
+//    }
+//}
+import java.util.*;
+//public class Stringbuffer {
+//    public static void main(String[] args) {
+//        StringBuffer s = new StringBuffer("power star pawan kalyan");
+////        s.reverse();
+////        System.out.println(s);
+////        s.delete(0, 10);
+////        System.out.println(s);
+//        s.replace( 0,10, "konidela");
+//        System.out.println(s);
+//    }
+//}
+package string
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
